@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aetherchaos
-- 👀 I’m interested in learning new and applying new ways of working
+- 👀 I’m interested in learning new things and applying them to workflows
 - 🌱 I’m currently learning about deploying software development and build pipelines
 - 📫 How to reach me TBD...
 
