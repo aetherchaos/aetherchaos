@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aetherchaos
-- 👀 I’m interested in learning new things and applying them to workflows
-- 🌱 I’m currently learning about deploying software development and build pipelines
+- 👀 I’m interested in learning new things and applying them to workflows (GameDev/VFX)
+- 🌱 I’m currently learning about deploying development and build pipelines (Unreal 5 for now)
 - 📫 How to reach me TBD...
 
 <!---
